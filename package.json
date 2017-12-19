@@ -1,0 +1,28 @@
+{
+  "name": "connecting-from-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lookup_people.js",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "pg": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryshrives/connecting-from-javascript.git"
+  },
+  "scripts": {
+    "knex": "knex"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryshrives/connecting-from-javascript/issues"
+  },
+  "homepage": "https://github.com/maryshrives/connecting-from-javascript#readme"
+}
